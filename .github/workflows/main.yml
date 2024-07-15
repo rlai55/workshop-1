@@ -5,5 +5,5 @@ on: [workflow_dispatch]
 jobs:
   build-and-deploy:
     name: Build and Deploy (WebGL)
-    uses: comp30019/ci-cd/.github/workflows/webgl.yml@main
+    uses: feit-comp30019/ci-cd/.github/workflows/webgl.yml@main
     secrets: inherit
