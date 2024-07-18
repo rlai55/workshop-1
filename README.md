@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/feit-comp30019/Workshop-1/actions/workflows/main.yml" alt="Workflow Status">
-    <img src="https://github.com/feit-comp30019/Workshop-1/actions/workflows/main.yml/badge.svg" />
+  <a href="https://github.com/feit-comp30019/workshop-1/actions/workflows/main.yml" alt="Workflow Status">
+    <img src="https://github.com/feit-comp30019/workshop-1/actions/workflows/main.yml/badge.svg" />
   </a>
-  <a href="https://feit-comp30019.github.io/Workshop-1/" alt="Play Online">
-    <img src="https://img.shields.io/static/v1?label=Play%20Online&message=feit-comp30019.github.io/Workshop-1/&color=blue&logo=unity" />
+  <a href="https://feit-comp30019.github.io/workshop-1/" alt="Play Online">
+    <img src="https://img.shields.io/static/v1?label=Play%20Online&message=feit-comp30019.github.io/workshop-1/&color=blue&logo=unity" />
   </a>
 </p>
 
